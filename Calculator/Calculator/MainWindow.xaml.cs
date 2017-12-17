@@ -28,7 +28,7 @@ namespace Calculator
 
         private void clear_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
         {
-            //kjbkjbfv
+            //hjlletmlg
         }
 
         private void change_system_button_Click(object sender, RoutedEventArgs e)
@@ -42,7 +42,7 @@ namespace Calculator
                     change_system_button.Content = "16";
                     break;
                 case "16":
-                    change_system_button.Content = "21";
+                    change_system_button.Content = "2";
                     break;
             }
         }
